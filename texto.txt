@@ -1,0 +1,1 @@
+Este texto foi criado com o intuito de motrar um conflito de merge.
